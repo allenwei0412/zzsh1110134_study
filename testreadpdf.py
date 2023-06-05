@@ -11,7 +11,7 @@ print("""
                                                                                               
                                                                                               
 """)
-#reader = PdfReader("/Users/allen/Desktop/10134-MiniProject.pdf")
+
 reader = PdfReader(input("Input PDF Files:\n>"))
 i=1
 num_pages = len(reader.pages)
