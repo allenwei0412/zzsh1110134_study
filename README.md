@@ -1,5 +1,5 @@
 # 中正高中 10134 魏士榮自主學習-程式
-如要執行，請先下載tkPDFViewer和PyPDF2模組
+如要執行，請先下載 tkPDFViewer 和 PyPDF2 模組
 
 
 https://pypi.org/project/tkPDFViewer/#files
